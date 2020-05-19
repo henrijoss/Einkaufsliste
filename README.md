@@ -5,7 +5,7 @@ Praktikumsaufgabe des Kurses Open-Source Softwareentwicklung
 
 ## Lebenslauf
 
-![alt text](https://github.com/henrijoss/Einkaufsliste/Musterfoto.jpg "Musterbild")
+![alt text](https://github.com/henrijoss/Einkaufsliste/blob/custom/Musterfoto.jpg "Musterbild")
 
 Max Mustermann
 musterstraße 11, 00000 Musterstadt
