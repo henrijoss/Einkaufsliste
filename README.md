@@ -5,16 +5,26 @@ Praktikumsaufgabe des Kurses Open-Source Softwareentwicklung
 
 ## Lebenslauf
 
+#### Allgemeines
+
 ![alt text](https://github.com/henrijoss/Einkaufsliste/blob/custom/Musterfoto.jpg "Musterbild")
 
-Max Mustermann
-musterstraße 11, 00000 Musterstadt
 
-| Zeitraum      |                        | 
+| Über mich      |                        |
 | ------------- |:----------------------:| 
-| 1977          | Geboren in Musterstadt | 
+| **Name**          | Max Mustermann | 
+| **Geburtsdatum**     | 01.01.1977 |  
+| **Geburtsort**      | Musterstadt |   
+
+
+#### Tabellarischer Lebenslauf
+
+| Zeitraum      |                        |
+| ------------- |:----------------------:| 
+| 1996-2000     | Studium, Musterstadt |
+| 1988-1996     | Gymnasium, Musterstadt |
 | 1984-1988     | Grundchule, Musterstadt|  
-| 1988-1996     | Gymnasium, Musterstadt |    
+    
 
 
 ---
